@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f67fdca7c964fa37",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d0d84e6287b87d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "面试题/JS/原型链.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64fbc8895d02ad13",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a89963ba1cb85aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42d32563bcac5f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4de90c9f762ab3e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "防抖",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "638bf2a21309dfc8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "56b7b89d9feaf423",
+    "type": "split",
+    "children": [
+      {
+        "id": "60cdbadc849f77f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831b493186d3849a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面试题/JS/原型链.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f40970acf0b35140",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "面试题/JS/原型链.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89f00cbec8031e28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d06c315cd4a89665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面试题/JS/原型链.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86d0d84e6287b87d",
+  "lastOpenFiles": [
+    "面试题/JS/无感登录.md",
+    "面试题/JS/同源策略.md",
+    "面试题/JS/数组去重.md",
+    "面试题/JS/数组常用方法.md",
+    "面试题/JS/数据没有请求过来时如何做.md",
+    "面试题/JS/事件委托.md",
+    "面试题/JS/实现深拷贝.md",
+    "面试题/JS/什么是JSON.md",
+    "面试题/JS/深拷贝与浅拷贝.md",
+    "面试题/JS/防抖与节流.md"
+  ]
+}

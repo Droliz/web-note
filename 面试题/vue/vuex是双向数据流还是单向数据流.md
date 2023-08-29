@@ -1,0 +1,1 @@
+Vuex单向数据流，只能通过 `mutation` 或者 `actions` 修改，不可以直接修改
